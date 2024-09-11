@@ -74,3 +74,6 @@ Se encontraran tres archivos dentro de la carpeta CNYT_ los cuales son:
 
 * TallerEsp.Vect-ProdInterno-VectoPropios (2).ipynb
   * En este archivo se encuentra la solucion al mismo.
+
+* HermitianUnitaryTensorCircuits/HermitianUnitaryTensorCircuits
+  * En esta carpeta se encuentran archivos adicionales como imagenes usadas en los talleres.    
