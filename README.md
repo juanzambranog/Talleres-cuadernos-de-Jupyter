@@ -52,7 +52,6 @@ Algunas de las operaciones que se usaron en el desarrollo de los talleres.
 
 ## Lenguajes usados para hacer la libreria.
 * Python
-* Jupyter Notebook
 
 ## Instalaciòn y ejecucion del proyecto
 Descargue el repositorio lo puede realizar de tres formas:
